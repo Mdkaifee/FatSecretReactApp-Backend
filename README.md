@@ -1,1 +1,5 @@
 # FatSecretReactApp-Backend
+
+CLIENT_ID_FATSECRET=49fabf365272435ea8d3c1c9b445a371
+CLIENT_SECRET_FATSECRET=74466be5e3f84d8e9c259a170d67e197
+DATABASE_URL=postgresql://postgres:Apnitor%401@localhost:5432/Fatsecret
